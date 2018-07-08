@@ -1,14 +1,14 @@
-<!DOCTYPE html>
-<html>
-<head>
 
-</head>
-<body>
 
-<h1>This is just the test for git merge</h1>
+
+
+
+
+
+
 <?
-echo "a test message from local repo 1";
-echo "a test message from local repo 1";
+echo "footer line 1";
+
 ?>
-</body>
-</html>
+
+
